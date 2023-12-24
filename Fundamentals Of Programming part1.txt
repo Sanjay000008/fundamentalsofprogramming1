@@ -1,0 +1,28 @@
+Fundamentals Of Programming?
+
+There are many types of fundamentals of programming given below.
+1. Variable declaration
+Variables are containers for storing values. The variable declaration indicates that the operating system is going to reserve a piece of memory with that variable name. You can define a variable with alphabets, digits, and underscores. Variable names can start with an alphabet or an underscore but cannot start with a digit. Some variable types across several programming languages are:
+
+Constant variable: You can use constant variables to store data whose value doesn't change throughout the program.
+Global variable: You can declare global variables outside a function. These variables are accessible throughout the program.
+Class variable: You can access class variables within a specified class. These variables are accessible by specifying their class names.
+Instance variable: You can declare instance variables inside a class but outside a method. These variables are accessible throughout the class in which you've declared them.
+Local variable: You can declare local variables in classes, methods, or instances. You can access these variables only within the specified class or method.
+
+2. Control structures
+A control structure specifies the flow of control in a program. Analyzing certain parameters and conditions determines the flow direction of a program. Control structures make it easier to understand a flow of logic when developing algorithms or writing programs. There are three basic types of control structures:
+
+Sequential logic: The flow of a program executes in a specific order without skipping, jumping, or switching to another block of code.
+Selection logic: A condition determines whether a block of code gets executed or skipped. Common examples include if and else-if.
+Iteration logic: A block of code repeats a fixed number of times to achieve the desired result. Common examples include for and while loop.
+
+3. Data structures
+A data structure provides an effective way to store and retrieve data. There are various data structures that computer programmers can use to complete tasks and run applications. These are some common data structures used in software development:
+
+Arrays: Arrays organize data by storing similar elements together and using contiguous memory allocation. You can use arrays to store an ordered list of items.
+Stacks: Stacks are linear structures that follow a last-in, first-out (LIFO) order for executing operations. You can use stacks to implement backtracking algorithms.
+Queues: The queue is a linear structure that follows a first-in, first-out (FIFO) order for executing operations. You can use them in mail queues, CPU scheduling, and first-come, first-serve (FCFS) scheduling.
+Linked lists: Linked lists are linear data structures that use pointers to link elements as opposed to contiguous memory locations. You can use them to implement stacks, queues, and graphs.
+Binary trees: Binary trees are non-linear structures that contain nodes that have two possible values or directions. You can use binary trees to represent hierarchy and determine structural relationships in data.
+Graphs: Graphs contain nodes and edges connected to one another. You can use these data structures to study maps, resource allocation in operating systems, and social media networks.
